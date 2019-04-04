@@ -1,0 +1,23 @@
+{
+  "name": "styled-state-spring-example",
+  "homepage": "https://rkhayat.github.io/styled-state-spring",
+  "version": "0.0.0",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "prop-types": "^15.6.2",
+    "react": "link:../node_modules/react",
+    "react-dom": "link:../node_modules/react-dom",
+    "styled-components": "link:../node_modules/styled-components",
+    "xstate": "link:../node_modules/xstate",
+    "react-spring": "link:../node_modules/react-spring",
+    "react-scripts": "^1.1.4",
+    "styled-state-spring": "link:.."
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
