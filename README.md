@@ -32,7 +32,7 @@ npm install styled-components xstate react-spring
 ```
 
 ## Usage
-[Demo (Storybook)]((https://rkhayat.github.io/styled-state-spring/?path=/story/welcome--introduction))
+[Demo - Storybook](https://rkhayat.github.io/styled-state-spring/?path=/story/welcome--introduction)
 
 
  A simple example:
