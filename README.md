@@ -35,7 +35,7 @@ npm install styled-components xstate react-spring
 [Demo - Storybook](https://rkhayat.github.io/styled-state-spring/?path=/story/welcome--introduction)
 
 
- A simple example:
+ A simple example ([Codesandbox](https://codesandbox.io/s/6xoqpr5mnk)):
 
 ```jsx
 import React from 'react';
