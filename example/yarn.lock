@@ -4198,7 +4198,7 @@ longest@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/longest/-/longest-1.0.1.tgz#30a0b2da38f73770e8294a0d22e6625ed77d0097"
 
-loose-envify@^1.0.0, loose-envify@^1.1.0, loose-envify@^1.4.0:
+loose-envify@^1.0.0, loose-envify@^1.4.0:
   version "1.4.0"
   resolved "https://registry.yarnpkg.com/loose-envify/-/loose-envify-1.4.0.tgz#71ee51fa7be4caec1a63839f7e682d8132d30caf"
   dependencies:
@@ -5479,7 +5479,6 @@ react-dev-utils@^5.0.2:
 
 "react-dom@link:../node_modules/react-dom":
   version "0.0.0"
-  uid ""
 
 react-error-overlay@^4.0.1:
   version "4.0.1"
@@ -5536,11 +5535,9 @@ react-scripts@^1.1.4:
 
 "react-spring@link:../node_modules/react-spring":
   version "0.0.0"
-  uid ""
 
 "react@link:../node_modules/react":
   version "0.0.0"
-  uid ""
 
 read-pkg-up@^1.0.1:
   version "1.0.1"
@@ -5891,13 +5888,6 @@ sane@~1.6.0:
 sax@^1.2.1, sax@^1.2.4, sax@~1.2.1:
   version "1.2.4"
   resolved "https://registry.yarnpkg.com/sax/-/sax-1.2.4.tgz#2816234e2378bddc4e5354fab5caa895df7100d9"
-
-scheduler@^0.13.6:
-  version "0.13.6"
-  resolved "https://registry.yarnpkg.com/scheduler/-/scheduler-0.13.6.tgz#466a4ec332467b31a91b9bf74e5347072e4cd889"
-  dependencies:
-    loose-envify "^1.1.0"
-    object-assign "^4.1.1"
 
 schema-utils@^0.3.0:
   version "0.3.0"
@@ -6308,11 +6298,9 @@ style-loader@0.19.0:
 
 "styled-components@link:../node_modules/styled-components":
   version "0.0.0"
-  uid ""
 
 "styled-state-spring@link:..":
-  version "0.0.0"
-  uid ""
+  version "1.0.2"
 
 supports-color@^2.0.0:
   version "2.0.0"
@@ -6663,8 +6651,8 @@ uri-js@^4.2.2:
     punycode "^2.1.0"
 
 urijs@^1.16.1:
-  version "1.19.1"
-  resolved "https://registry.yarnpkg.com/urijs/-/urijs-1.19.1.tgz#5b0ff530c0cbde8386f6342235ba5ca6e995d25a"
+  version "1.19.6"
+  resolved "https://registry.yarnpkg.com/urijs/-/urijs-1.19.6.tgz#51f8cb17ca16faefb20b9a31ac60f84aa2b7c870"
 
 urix@^0.1.0:
   version "0.1.0"
@@ -6989,7 +6977,6 @@ xml-name-validator@^2.0.1:
 
 "xstate@link:../node_modules/xstate":
   version "0.0.0"
-  uid ""
 
 xtend@^4.0.0:
   version "4.0.1"
